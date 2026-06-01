@@ -1,6 +1,6 @@
 # Dental Clinic Website (In Development)
 
-A modern, professional single-page website concept designed for a healthcare clinic. This project showcases clean structural layouts, semantic styling, and structured element alignments.
+A modern, professional multi-page website concept designed for a healthcare clinic. This project showcases clean structural layouts, semantic styling, and structured element alignments.
 
 ##  📸 Preview
 
