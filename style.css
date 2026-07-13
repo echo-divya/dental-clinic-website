@@ -103,10 +103,6 @@ section{
   font-weight: 700;
   text-decoration: none;
 }
-.hero-content a:hover {
-  opacity: 0.9;
-  cursor: pointer;
-}
 .hero-image {
   flex: 1;
   height: 100%;
@@ -119,9 +115,15 @@ section{
 }
 #cta{
   display: flex;
-  gap: 1rem;
+  gap: 1.5rem;
 }
-
+#cta a{
+  transition: transform 0.15s;
+  cursor: pointer;
+}
+#cta a:hover{
+  transform: scale(1.04);
+}
 footer{
   width: 100%;
   padding: 1.5rem;
