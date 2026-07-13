@@ -1,17 +1,13 @@
-# Dental Clinic Website (In Development)
+#  Dental Clinic Website
 
-A modern, professional single-page website concept designed for a healthcare clinic. This project showcases clean structural layouts, semantic styling, and structured element alignments.
+A multi-page website concept for a modern dental clinic. Built completely from scratch to practice semantic layouts and clean structural alignment.
 
-##  📸 Preview
+*Note: This project is currently in active development.*
+
+## 📸 Preview
 
 ![Healthy Smile Website Desktop Preview](assets/preview.png)
 
-## ✨ Features
-* **Structured Grid/Flex Layouts:** Engineered completely from scratch using CSS Flexbox for pixel-perfect structural layouts.
-* **Semantic Document Hierarchy:** Built with modern HTML5 landmarks to guarantee accessible document structures.
-* **Clean Component Architectures:** Organized with clear design alignments for headers, navigation blocks, and appointment segments.
-
-## 🛠️ Technologies Used
+## 🛠️ Built With
 * HTML5
-* CSS3
-* Core UI Design Systems
+* CSS3 
